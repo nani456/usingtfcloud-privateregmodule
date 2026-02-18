@@ -2,7 +2,7 @@ variable "s3_buc_name" {
   
   description = "my s3 bucket name"
   type = string
-  default = "mybuc-n9"
+  default = "mybuc-n10"
 }
 variable "tags" {
     description = "tagsss"
